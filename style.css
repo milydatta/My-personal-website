@@ -1,0 +1,49 @@
+body{
+    margin: 0px;
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 40px;
+}
+p{
+    font-size: 15px;
+}
+.name-highlight{
+    color: tomato;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 5%;
+}
+.half-width img{
+    width: 100%;
+}
+section{
+    height: 500px;
+}
+.button{
+    text-decoration: none;
+    background-color:tomato;
+    color: white;
+    padding:10px 20px ;
+    border-radius: 5px;
+    font-weight: 700;
+}
+.about{
+    padding-top: 100px;
+}
+.work{
+    float: left;
+    margin: 5px;
+    padding: 5px;
+  
+}
+.my-work{
+    text-align: center;
+}
+.latest-work{
+    background-color:lightgray;
+    height: 500px;
+}
