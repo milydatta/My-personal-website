@@ -44,14 +44,23 @@ section{
     float: left;
     margin: 5px 15px;
     padding: 5px;
+   
 }
 .latest-work{
     background-color:lightgray;
     height: 500px;
+    padding-bottom: 100px;
 }
-.inquery{
-    background-image: url("images/bg.png");
-    background-repeat: no-repeat;
-    height: 500px;
-
+.inquery{    
+    padding-right: 100px;
+}
+.image{
+   text-align: center;
+    font-size: 1rem;
+    padding-left: 200px;
+   
+}
+.stay{
+    padding-top: 20px;
+    text-align: center;
 }
