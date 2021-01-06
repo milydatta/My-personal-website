@@ -34,16 +34,24 @@ section{
 .about{
     padding-top: 100px;
 }
-.work{
-    float: left;
-    margin: 5px;
-    padding: 5px;
-  
-}
 .my-work{
+    padding-top: 100px;
     text-align: center;
+}    
+
+.work{
+    padding-top: 100px;
+    float: left;
+    margin: 5px 15px;
+    padding: 5px;
 }
 .latest-work{
     background-color:lightgray;
     height: 500px;
+}
+.inquery{
+    background-image: url("images/bg.png");
+    background-repeat: no-repeat;
+    height: 500px;
+
 }
